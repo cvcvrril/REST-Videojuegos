@@ -1,0 +1,25 @@
+{
+	"videojuego": [
+		{
+			"id": 1,
+			"titulo": "Metal Gear Solid 2: Sons of Liberty",
+			"anyoPublicacion": "2001"
+		},
+		{
+			"id": 2,
+			"nombre": "Death Stranding",
+			"nacimiento": "2019"
+		},
+		{
+			"id": 3,
+			"nombre": "Super Mario Galaxy",
+			"nacimiento": "2007"
+		}
+	],
+	"personaje": [
+		{
+			"id": 1,
+			"name": "Solid Snake",
+			"idVideojuego": 1
+		}	]
+}
