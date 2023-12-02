@@ -21,5 +21,31 @@
 			"id": 1,
 			"name": "Solid Snake",
 			"idVideojuego": 1
-		}	]
+		},
+		{
+			"id": 2,
+			"name": "Solidus Snake",
+			"idVideojuego": 1
+		},
+		{
+			"id": 3,
+			"name": "Otacon",
+			"idVideojuego": 1
+		},
+		{
+			"id": 4,
+			"name": "Revolver Ocelot",
+			"idVideojuego": 1
+		},
+		{
+			"id": 5,
+			"name": "Raiden",
+			"idVideojuego": 1
+		},
+		{
+			"id": 6,
+			"name": "Sam Bridges",
+			"idVideojuego": 2
+		}
+	]
 }
