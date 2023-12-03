@@ -3,17 +3,17 @@
 		{
 			"id": 1,
 			"titulo": "Metal Gear Solid 2: Sons of Liberty",
-			"anyoPublicacion": "2001"
+			"year": "2001"
 		},
 		{
 			"id": 2,
 			"nombre": "Death Stranding",
-			"nacimiento": "2019"
+			"year": "2019"
 		},
 		{
 			"id": 3,
 			"nombre": "Super Mario Galaxy",
-			"nacimiento": "2007"
+			"year": "2007"
 		}
 	],
 	"personaje": [
@@ -46,6 +46,21 @@
 			"id": 6,
 			"name": "Sam Bridges",
 			"idVideojuego": 2
+		},
+		{
+			"id": 7,
+			"name": "Higgs Monaghan",
+			"idVideojuego": 2
+		},
+		{
+			"id": 8,
+			"name": "Cliff Unger",
+			"idVideojuego": 2
+		},
+		{
+			"id": 9,
+			"name": "Estela",
+			"idVideojuego": 3
 		}
 	]
 }
