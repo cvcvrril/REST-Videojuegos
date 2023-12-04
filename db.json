@@ -7,12 +7,12 @@
 		},
 		{
 			"id": 2,
-			"nombre": "Death Stranding",
+			"titulo": "Death Stranding",
 			"year": "2019"
 		},
 		{
 			"id": 3,
-			"nombre": "Super Mario Galaxy",
+			"titulo": "Super Mario Galaxy",
 			"year": "2007"
 		}
 	],
